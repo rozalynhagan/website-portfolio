@@ -1,0 +1,52 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
+
+Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.
+
+## What You’ll Find
+
+- **Campaign Performance Analysis:** Evaluating the effectiveness of digital marketing efforts using data.
+- **Data Visualization:** Turning raw datasets into intuitive dashboards and reports.
+- **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
+- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+
+
+## Project Title 1: Consumer Insights Dashboard Design
+In this project, I created an interactive dashboard using Google Data Studio to analyze customer behavior data for an e-commerce brand. The goal was to uncover actionable insights on purchasing patterns, churn risk, and customer lifetime value.
+
+**Skills Demonstrated:**
+
+- Data Analysis: Cleaned and interpreted data from Google Analytics and Shopify reports.
+
+- Dashboard Development: Designed a user-friendly, real-time dashboard for marketing stakeholders.
+
+- Customer Segmentation: Identified high-value segments based on behavior and engagement metrics.
+
+- Insight Communication: Presented findings to non-technical stakeholders in a visual, compelling format.
+
+---
+
+
+## Project Title 2: A/B Testing for Landing Page Optimization
+This project focused on improving conversion rates for a mock product landing page. I designed and ran an A/B test using simulated traffic data to evaluate the impact of different headline copy and CTA buttons.
+
+**Skills Demonstrated:**
+
+- Experiment Design: Created hypotheses, testing criteria, and success metrics.
+
+- Statistical Analysis: Used Excel and basic Python to interpret test results and determine significance.
+
+- User Behavior Insight: Analyzed heatmaps and bounce rates to inform design choices.
+
+- Optimization Strategy: Recommended data-backed changes that improved conversion rate by 12%.
+
+---

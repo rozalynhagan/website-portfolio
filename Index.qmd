@@ -1,0 +1,25 @@
+---
+title: "Hi, I'm Rozalyn Hagan"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](/images/IMG_8344.JPG){width=100% style="border-radius: 50%;"}
+:::
+::: {.column width="70%" style="padding-left: 3rem;"}
+
+Welcome to my digital space! I'm a third-year marketing student with a passion for for consumer behavior, asserting creative strategies, and a love for promotions and bringing brands to life through meaningful storytelling. Whether it's crafting campaigns, analyzing market trends, or building brand identities, I thrive on turning ideas into impact.
+:::
+
+## About Me
+
+I am in the process of earning my B.A. in Marketing with an emphasis in entertainment from Cal Poly Pomona. I started my college journey at Citrus College where I found my love for marketing, especially in the entertainment industry. I one day hope to work for The Walt Disney Company and create fun and exciting content for the parks.
+
+
+
+## Let's Connect
+
+You can [email me](mailto:rhagan1155@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rozalyn-hagan-21a2b234b/).
+
+---
+

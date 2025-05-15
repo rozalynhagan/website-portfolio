@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Rozalyn Hagan"
+  navbar:
+    left:
+      - text: "Home"
+        href: Index.qmd
+      - text: "Marketing Analytics"
+        href: Marketing Analytics.qmd
+      - text: "Strategic Marketing"
+        href: Strategic Marketing.qmd
+      - text: "Resume"
+        href: Resume.qmd                                                            
+        
+format:
+  html:
+    theme: [journal, theme.scss]
+    toc: true

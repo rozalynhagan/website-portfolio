@@ -1,0 +1,44 @@
+---
+title: "Resume"
+---
+
+You can view a PDF version of my resume [here](resume/Resume (4).pdf).
+
+# Professional Summary
+
+Results-oriented marketing and promotions student with a strong foundation in data analysis, digital strategy, and event coordination focuses. Skilled in social media tools and creative design to bring emphasis to brands and their image.
+
+# Technical Skills
+
+- **Programming Languages:** R  
+- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools, Adobe Creative Suit and InDesign
+
+# Education
+
+| Degree                             | Year                          | College / Department                 | Institution         |
+| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
+| Bachelors                    | 2024-2026     | College of Business Administration        | Cal Poly Pomona   |
+| Associates | 2022-2024            | Business ADT        | Citrus College   |
+
+# Work Experience
+
+### Lead Sales Specialist, Fitness 19 Gyms
+*January, 2024 – Current*
+
+- Promote services and products both in club and via phone
+- Follow employee and club metrics
+- Handle routine calls and member issues
+- Use of DataTrack, Insight Analytics, and GymSales  
+
+---
+
+### Assistant Manager, BrightLine Promotions Inc.
+*June 2021 – February 2024*
+
+- Coordinated and executed in-store promotional events
+- Built and maintained client relationships
+- Mentored a team of 10 sales associates, leading weekly training sessions
+- Collaborated with marketing to design and launch local promotions
+- Leveraged tools like Salesforce, Canva, and Google Analytics
+
+---
